@@ -1,0 +1,5 @@
+-- User manual --
+
+100076603_Challenge_2
+
+To open this project, please download XAMPP into your PC or laptop. Then, go to XAMPP Control Panel and then choose the USA flag to choose English the language. After that, start Apache and MySQL. After that download Composer into your PC or laptop and select the default settings. Then, go to localhost/phpmyadmin to set up the database. After that select new to create a new database with the name school_network. Then, go to the project directory and open up command prompt. After that, type php artisan migrate to add in the tables into the database. After that, type php artisan serve to access the website by copying the http of the server, which is 127.0.0.1:8000. You will be able to use the website from doing this by signing in users in the database or registering new users in the database.
